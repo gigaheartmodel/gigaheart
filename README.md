@@ -1,15 +1,7 @@
----
-tags:
-  - vision
-  - medical
-pipeline_tag: image-feature-extraction
-library_name: timm
----
-
 # GigaHeart
 ## A Cardiac-specific CT Foundation Model for Heart Transplantation
 
-[[`Model`](https://huggingface.co/gigaheart/gigaheart)]
+[[`Huggingface Model`](https://huggingface.co/gigaheart/gigaheart)]
 
 Hanwen Xu, Addie Woicik, Sanaz Asadian, Junbo Shen, Zhengyan Zhang, Ali Nabipoor, J. Peter Musi, Jeffrey Keenan, Maziar Khorsandi, Bassel Al-Alao, Ioannis Dimarakis, Hamid Chalian, Yiing Lin, Daniel Fishbein, Jay Pal*, Sheng Wang*, Shin Lin* (*Corresponding authors)
 
@@ -42,7 +34,7 @@ conda activate gigaheart
 
 ## Model Download
 
-The GigaHeart models can be accessed from [GigaHeart model](https://huggingface.co/gigaheart/gigaheart).
+The GigaHeart models can be accessed from [Huggingface](https://huggingface.co/gigaheart/gigaheart).
 
 ## Inference
 
