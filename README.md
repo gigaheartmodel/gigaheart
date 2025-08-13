@@ -1,6 +1,7 @@
 # GigaHeart
 ## A Cardiac-specific CT Foundation Model for Heart Transplantation
 
+Here, we developed GigaHeart, the first heart-specific foundation model pretrained on 180,897 chest CT volumes from 56,607 patients. The key idea of GigaHeart is to direct the foundation model's attention towards the heart by contrasting the heart region and the entire chest, thereby encouraging the model to capture fine-grained cardiac features.
 [[`Huggingface Model`](https://huggingface.co/gigaheart/gigaheart)]
 
 Hanwen Xu, Addie Woicik, Sanaz Asadian, Junbo Shen, Zhengyan Zhang, Ali Nabipoor, J. Peter Musi, Jeffrey Keenan, Maziar Khorsandi, Bassel Al-Alao, Ioannis Dimarakis, Hamid Chalian, Yiing Lin, Daniel Fishbein, Jay Pal*, Sheng Wang*, Shin Lin* (*Corresponding authors)
