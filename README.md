@@ -5,6 +5,11 @@
 
 Hanwen Xu, Addie Woicik, Sanaz Asadian, Junbo Shen, Zhengyan Zhang, Ali Nabipoor, J. Peter Musi, Jeffrey Keenan, Maziar Khorsandi, Bassel Al-Alao, Ioannis Dimarakis, Hamid Chalian, Yiing Lin, Daniel Fishbein, Jay Pal*, Sheng Wang*, Shin Lin* (*Corresponding authors)
 
+## 📢 News
+
+### Aug 2025
+- **Initial Model and Code Release**: We are excited to announce that the initial release of the GigaHeart model.
+
 ## Model Overview
 
 <p align="center">
